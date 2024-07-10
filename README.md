@@ -1,5 +1,3 @@
-# Formula-1-Project
-
 # Formula 1 Standings Scraper
 
 This Python script scrapes Formula 1 driver and team standings data from the official Formula 1 website for the years 1950 to 2023 and saves the data as individual CSV files.
